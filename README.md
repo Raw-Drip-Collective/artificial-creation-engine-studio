@@ -1,5 +1,3 @@
-# artificial-creation-engine-studio
-Full-stack AI Playground featuring Kimi-K2.5 UI and multi-tier subscriptions.
 # Artificial Creation Engine Studio's (ACES)
 
 ACES is a high-performance AI Playground built for the **Raw Drip Collective**. It leverages [Kimi-K2.5](https://www.kimi.comblog/kimi-k2-5.html) multimodal capabilities to provide a seamless "Vibe Coding" and agentic experience.
